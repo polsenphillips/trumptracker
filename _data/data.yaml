@@ -32,6 +32,17 @@ statuses:
 
 promises:
     -
+        title: 'Stop golfing.'
+        status: Not started
+        category: Culture
+        tags:
+            - 'golf'
+        comments: 'https://redd.it/5d4r8m'
+        sources:
+            - 'http://www.google.com/'
+
+promises:
+    -
         title: 'No more trips Maralago'
         status: Broken
         category: Culture
